@@ -1,7 +1,9 @@
 ################################# Default configuration ###################
 # provide your domain here
-baseURL = "https://demo.gethugothemes.com/dot/examplesite/"
-#baseURL = "hugoquick.netlify.app"
+#
+baseURL = "newhugosite.netlify.app"
+
+#baseURL = "https://demo.gethugothemes.com/dot/examplesite/"
 #baseURL = "https://demo.gethugothemes.com/dot/examplesite/"
 #baseURL = "hugoquick.netlify.app"
 # theme
