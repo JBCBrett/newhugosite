@@ -3,9 +3,6 @@
 #
 baseURL = "hugoquick.netlify.app"
 
-#baseURL = "https://demo.gethugothemes.com/dot/examplesite/"
-#baseURL = "https://demo.gethugothemes.com/dot/examplesite/"
-#baseURL = "hugoquick.netlify.app"
 # theme
 theme = "dot-hugo"
 # site title
